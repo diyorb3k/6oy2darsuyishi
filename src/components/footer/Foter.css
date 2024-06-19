@@ -17,6 +17,7 @@
 .footer {
   margin-top: 157px;
   display: flex;
+  justify-content: space-between;
 }
 .footer .foter1 h6 {
   max-width: 256px;
@@ -129,5 +130,14 @@
   color: #6e7191;
 }
 .foter4 button {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  color: #fff;
   padding: 26px 38px;
+  border-radius: 14px;
+  border: none;
+  background-color: #0075ff;
 }/*# sourceMappingURL=Foter.css.map */
