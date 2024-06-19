@@ -39,6 +39,7 @@
       color: #6e7191;
     }
     button {
+      cursor: pointer;
       border-radius: 14px;
       border: none;
       color: #fff;
@@ -154,6 +155,7 @@
   justify-content: center;
   button {
     color: #fff;
+    cursor: pointer;
     font-family: Roboto;
     font-size: 18px;
     font-weight: 700;
@@ -194,6 +196,7 @@
     color: #211f54;
   }
   button {
+    cursor: pointer;
     background-color: #fff;
     border: 1px solid #eff0f6;
     border-radius: 14px;
@@ -425,6 +428,7 @@ hr {
     gap: 28px;
     display: flex;
     button {
+      cursor: pointer;
       font-family: Roboto;
       font-size: 18px;
       font-weight: 700;
@@ -594,6 +598,7 @@ hr {
     color: #6e7191;
   }
   button {
+    cursor: pointer;
     margin-bottom: 200px;
     font-family: Roboto;
     font-size: 18px;
@@ -677,4 +682,18 @@ hr {
 
   padding-top: 31px;
   padding-left: 61px;
+}
+.Submit {
+  cursor: pointer;
+  margin-left: 61px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  color: #fff;
+  background-color: #0075ff;
+  border-radius: 14px;
+  border: none;
+  padding: 26px 20px;
+  margin-top: 32px;
 }

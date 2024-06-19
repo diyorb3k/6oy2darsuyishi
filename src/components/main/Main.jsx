@@ -255,6 +255,7 @@ const Main = () => {
                 rows="4"
                 cols="50"
               ></textarea>
+              <button className="Submit">Submit message</button>
             </div>
           </div>
         </div>

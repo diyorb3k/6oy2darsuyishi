@@ -41,6 +41,7 @@
   color: #6e7191;
 }
 .hero_page .hero_right button {
+  cursor: pointer;
   border-radius: 14px;
   border: none;
   color: #fff;
@@ -154,6 +155,7 @@
 }
 .btn_grupa button {
   color: #fff;
+  cursor: pointer;
   font-family: Roboto;
   font-size: 18px;
   font-weight: 700;
@@ -194,6 +196,7 @@
   color: #211f54;
 }
 .get button {
+  cursor: pointer;
   background-color: #fff;
   border: 1px solid #eff0f6;
   border-radius: 14px;
@@ -426,6 +429,7 @@ hr {
   display: flex;
 }
 .btntex .free button {
+  cursor: pointer;
   font-family: Roboto;
   font-size: 18px;
   font-weight: 700;
@@ -591,6 +595,7 @@ hr {
   color: #6e7191;
 }
 .contackt_left button {
+  cursor: pointer;
   margin-bottom: 200px;
   font-family: Roboto;
   font-size: 18px;
@@ -679,4 +684,19 @@ hr {
   text-align: left;
   padding-top: 31px;
   padding-left: 61px;
+}
+
+.Submit {
+  cursor: pointer;
+  margin-left: 61px;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 20px;
+  text-align: center;
+  color: #fff;
+  background-color: #0075ff;
+  border-radius: 14px;
+  border: none;
+  padding: 26px 20px;
+  margin-top: 32px;
 }/*# sourceMappingURL=main.css.map */
