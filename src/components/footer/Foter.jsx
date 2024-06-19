@@ -40,6 +40,7 @@ const Foter = () => {
             <button>Request a free quote</button>
           </div>
         </div>
+        <hr />
       </div>
     </>
   );
