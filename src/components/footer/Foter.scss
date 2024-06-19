@@ -148,3 +148,19 @@
     margin-bottom: 116px;
   }
 }
+.foter_buton {
+  display: flex;
+  margin-bottom: 35px;
+  justify-content: space-between;
+  ul {
+    display: flex;
+    a {
+      font-family: Roboto;
+      font-size: 18px;
+      font-weight: 400;
+      line-height: 30.01px;
+      text-align: right;
+      color: #6e7191;
+    }
+  }
+}

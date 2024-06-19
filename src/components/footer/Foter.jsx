@@ -1,5 +1,6 @@
 import "./Foter.scss";
 import turt from "../header/img/Frame.svg";
+import logo from "../header/img/saytheaderlogo.svg";
 
 const Foter = () => {
   return (
@@ -41,6 +42,27 @@ const Foter = () => {
           </div>
         </div>
         <hr />
+        <div className="foter_buton">
+          <img src={logo} alt="" />
+          <ul>
+            <li>
+              <a href="">Copyright © Cleaning X | Designed by</a>
+            </li>
+            <li>
+              <a href="">BRIX Templates</a>
+            </li>
+            <li>
+              <a href="">- Powered by</a>
+            </li>
+
+            <li>
+              <a href="">Webflow</a>
+            </li>
+            <li>
+              <a href="">Licenses</a>
+            </li>
+          </ul>
+        </div>
       </div>
     </>
   );

@@ -142,4 +142,21 @@
   border: none;
   background-color: #0075ff;
   margin-bottom: 116px;
+}
+
+.foter_buton {
+  display: flex;
+  margin-bottom: 35px;
+  justify-content: space-between;
+}
+.foter_buton ul {
+  display: flex;
+}
+.foter_buton ul a {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 30.01px;
+  text-align: right;
+  color: #6e7191;
 }/*# sourceMappingURL=Foter.css.map */
